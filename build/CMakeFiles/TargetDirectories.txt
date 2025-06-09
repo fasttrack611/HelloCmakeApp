@@ -1,0 +1,3 @@
+C:/HelloCmakeApp/build/CMakeFiles/hello_app.dir
+C:/HelloCmakeApp/build/CMakeFiles/edit_cache.dir
+C:/HelloCmakeApp/build/CMakeFiles/rebuild_cache.dir
